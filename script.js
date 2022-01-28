@@ -13,7 +13,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 
 let songs = [
-    {songName: "slow-slow Badshah", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Pyar ka Bandhan", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Tu mera Ho gaya hai ", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Ae Dilla Marjaaniyaan ", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Soch-Liya", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
